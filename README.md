@@ -8,17 +8,17 @@ A collaborative learning and innovation project focused on:
 - Computer Vision
 - Cybersecurity
 
-## 🌍 Vision
+##  Vision
 We aim to explore emerging technologies, study research papers, and develop practical solutions that merge intelligence with security.
 
-## 📌 Roadmap
-1. Basics of Cybersecurity & Network Security ✅
-2. AI Fundamentals 🚀
-3. Computer Vision 🔍
-4. Secure AI Systems 🔐
+## Roadmap
+1. Basics of Cybersecurity & Network Security 
+2. AI Fundamentals 
+3. Computer Vision
+4. Secure AI Systems 
 
-## 🔧 Current Project
+## Current Project
 - Secure Face Recognition Login (AI + CV + Encryption)
 
-## 🚀 Getting Started
+## Getting Started
 ```bash
