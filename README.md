@@ -20,5 +20,4 @@ We aim to explore emerging technologies, study research papers, and develop prac
 ## Current Project
 - Secure Face Recognition Login (AI + CV + Encryption)
 
-## Getting Started
-```bash
+
