@@ -1,6 +1,5 @@
 # TriNexa Technologies
 
-# TriNexa Technologies
 **Three Minds. One Vision. Limitless Innovation.**
 
 A collaborative learning and innovation project focused on:
