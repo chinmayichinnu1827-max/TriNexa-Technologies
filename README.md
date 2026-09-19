@@ -17,7 +17,5 @@ We aim to explore emerging technologies, study research papers, and develop prac
 3. Computer Vision
 4. Secure AI Systems 
 
-## Current Project
-- Secure Face Recognition Login (AI + CV + Encryption)
 
 
